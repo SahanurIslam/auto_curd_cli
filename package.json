@@ -1,0 +1,25 @@
+
+  {
+    "name": "crud-generator-cli-open",
+    "version": "1.0.0",
+    "main": "crud-generator.js",
+    "bin": {
+      "crud-generator": "./crud-generator.js"
+    },
+  "keywords": [
+    "cli",
+    "crud",
+    "express",
+    "nestjs",
+    "generator",
+    "scaffolding"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "crud-generator-cli": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
